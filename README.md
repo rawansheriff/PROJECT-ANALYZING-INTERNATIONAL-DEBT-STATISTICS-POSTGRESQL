@@ -14,9 +14,9 @@ The dataset used in this project includes the following columns:
 
 ## Objectives
 The key questions aimed to answer using SQL queries are:
-1. **Number of distinct countries** present in the dataset.
-2. **Country with the highest total debt**.
-3. **Country with the lowest amount of repayments on external long-term debt**.
+1. **How many distinct countries are present in the dataset?**
+2. **Which country has the highest total debt?**
+3. **Which country has the lowest repayments on external long-term debt?**
 
 ## SQL Queries and Analysis
 
