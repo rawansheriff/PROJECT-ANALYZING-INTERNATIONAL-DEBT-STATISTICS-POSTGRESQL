@@ -1,4 +1,6 @@
 
+![image](https://github.com/user-attachments/assets/0d311950-9cc5-42df-8390-362bf6911e64)
+
 # International Debt Analysis with SQL
 
 ## Introduction
